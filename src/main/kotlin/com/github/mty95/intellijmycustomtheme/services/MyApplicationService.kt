@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.mty95.intellijmycustomtheme.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.mty95.intellijmycustomtheme.MyBundle
 
 class MyApplicationService {
 
